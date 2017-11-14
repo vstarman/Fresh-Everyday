@@ -39,7 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'tinymce',       # 富文本编辑器
+    'tinymce',      # 富文本编辑器
     'apps.cart',    # 用户模块
     'apps.goods',   # 商品模块
     'apps.order',   # 订单模块
